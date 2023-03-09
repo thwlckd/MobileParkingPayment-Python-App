@@ -36,4 +36,6 @@ Server:   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=A
 ## 데이터 흐름도
 <img src="https://user-images.githubusercontent.com/101177511/223687802-988e058b-152d-456d-bbd0-edcf65687b75.png" width="60%"/>
 
+## ERD
+
 ## 결과물
