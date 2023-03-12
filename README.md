@@ -31,11 +31,21 @@ IDE:   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&l
 Server:   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white">
 
 ## 기능 블록도
-<img src="https://user-images.githubusercontent.com/101177511/223687783-470fcd83-40c8-4b9e-974a-befe478e172a.png" width="90%"/>
+<img src="https://user-images.githubusercontent.com/101177511/223687783-470fcd83-40c8-4b9e-974a-befe478e172a.png" width="80%"/>
 
 ## 데이터 흐름도
-<img src="https://user-images.githubusercontent.com/101177511/223687802-988e058b-152d-456d-bbd0-edcf65687b75.png" width="60%"/>
+<img src="https://user-images.githubusercontent.com/101177511/223687802-988e058b-152d-456d-bbd0-edcf65687b75.png" width="50%"/>
 
-## ERD
+## 스키마
+<img src="https://user-images.githubusercontent.com/101177511/224533253-0dd0b87f-9def-4434-8689-7e4d8f951936.png" width="50%"/>
 
 ## 결과물
+|홈|회원가입|
+|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/101177511/224531629-ebd16ed4-fdd4-4bd3-93d1-26d4e2dc01b8.png" width="40%"/>|<img src="https://user-images.githubusercontent.com/101177511/224531654-bc35a141-28d3-452c-96d3-ca41a1264488.png" width="40%"/>|
+
+|입차|결제|출차|
+|:---:|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/101177511/224532445-468eb74c-8f93-4fe4-8a35-bae918cb058f.png" />|<img src="https://user-images.githubusercontent.com/101177511/224531662-0a367be5-bb0b-448e-a475-73e361fc98aa.png" width="65%"/>|<img src="https://user-images.githubusercontent.com/101177511/224532765-7ffbc396-45fd-49d7-9e5a-2c7529838304.png" />|
+
+
